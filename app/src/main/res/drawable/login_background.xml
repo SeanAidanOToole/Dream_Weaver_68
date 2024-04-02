@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/background_shape">
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <gradient android:type="sweep" android:centerY="1.1" android:centerX="0.5"
+            android:centerColor="#487190" android:endColor="#884F92"
+            />
+    </shape>
+</item>
+
+<item
+    android:drawable="@drawable/loginbackround_rect"
+    android:gravity="center"
+    android:start="35dp"
+    android:end="35dp"
+    android:top="25dp"
+    android:bottom="50dp"/>
+</layer-list>
