@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Dream Weaver</string>
+    <string name="app_name">DreamWeaver_finalProj</string>
+    <string name="usrPrompt">Username</string>
+    <string name="pswrdPrompt">Password</string>
+    <string name="usrLogin">Login</string>
+    <string name="congratsMsg">Congratulations!</string>
+    <string name="successMsg">You have successfully logged in!</string>
+    <string name="backToLog">Back to Login Page</string>
+    <string name="welcomeTitle">Welcome to Dream Weaver</string>
 </resources>
