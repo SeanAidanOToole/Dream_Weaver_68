@@ -6,6 +6,8 @@
     <string name="congratsMsg">Congratulations!</string>
     <string name="successMsg">You have successfully logged in!</string>
     <string name="backToLog">Back to Login Page</string>
+    <string name="welcomeLogin">Welcome to Dream Weaver</string>
+    <string name="welcomeHome">Welcome back</string>
     <string name="welcomeTitle">Welcome to Dream Weaver</string>
     <string name="account_registration">Account Registration</string>
     <string name="please_fill_in_all_data">Please fill in all data</string>
