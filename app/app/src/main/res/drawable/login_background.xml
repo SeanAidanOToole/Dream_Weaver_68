@@ -6,7 +6,7 @@
     <shape xmlns:android="http://schemas.android.com/apk/res/android">
 
         <gradient android:type="sweep" android:centerY="1.1" android:centerX="0.5"
-            android:centerColor="#3FAEDA" android:endColor="#9226A5"
+            android:centerColor="#487190" android:endColor="#884F92"
             />
     </shape>
 </item>
