@@ -6,14 +6,7 @@
     <string name="congratsMsg">Congratulations!</string>
     <string name="successMsg">You have successfully logged in!</string>
     <string name="backToLog">Back to Login Page</string>
+    <string name="welcomeLogin">Welcome to Dream Weaver</string>
+    <string name="welcomeHome">Welcome back</string>
     <string name="welcomeTitle">Welcome to Dream Weaver</string>
-    <string name="account_registration">Account Registration</string>
-    <string name="please_fill_in_all_data">Please fill in all data</string>
-    <string name="enter_username">Enter Username</string>
-    <string name="enter_password">Enter Password</string>
-    <string name="confirm_password">Confirm Password</string>
-    <string name="enter_email">Enter Email</string>
-    <string name="submitButton">Submit</string>
-    <string name="signup">Signup</string>
-    <string name="enter_name">Enter Name</string>
 </resources>
